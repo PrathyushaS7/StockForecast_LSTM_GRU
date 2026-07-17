@@ -1,0 +1,5 @@
+Model,Variant,RMSE,MAE,Directional_Accuracy
+GRU,forward_fill,9.0656,7.0447,56.84
+GRU,no_sentiment,6.6674,4.858,58.16
+LSTM,forward_fill,10.708,8.6361,55.0
+LSTM,no_sentiment,9.4597,7.2861,55.0
